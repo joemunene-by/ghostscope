@@ -4,6 +4,14 @@
 
 <h1 align="center">ghostscope</h1>
 
+<!-- ghostsuite-badges -->
+<p align="center">
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT"></a>
+  <a href="https://www.python.org"><img src="https://img.shields.io/badge/python-3.10%2B-blue.svg" alt="Python 3.10+"></a>
+  <a href="https://github.com/joemunene-by/ghostsuite"><img src="https://img.shields.io/badge/part%20of-GhostSuite-6f42c1" alt="Part of GhostSuite"></a>
+</p>
+<!-- /ghostsuite-badges -->
+
 AI-based network intrusion detection for authorized defensive monitoring.
 
 ghostscope learns a baseline of normal network flow behavior from labeled or
