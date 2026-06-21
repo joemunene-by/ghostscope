@@ -1,4 +1,8 @@
-# ghostscope
+<p align="center">
+  <img src="assets/logo.svg" width="120" height="120" alt="ghostscope logo">
+</p>
+
+<h1 align="center">ghostscope</h1>
 
 AI-based network intrusion detection for authorized defensive monitoring.
 
